@@ -1,0 +1,3 @@
+
+#very hacky...
+exec("main.py")
